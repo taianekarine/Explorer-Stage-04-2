@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora - Média de Alunos </h1>
 
 <p align="center">
-O desafio da vez foi criar uma calculadora.
+O desafio da vez foi criar uma calculadora para medir a media de alunos.
 </p>
 
 <p align="center">
@@ -40,7 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 Não possui layout;
-
 
 ---
 
