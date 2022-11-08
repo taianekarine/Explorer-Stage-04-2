@@ -39,7 +39,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Não possui layout;
+Não possui layout e os dados já estão pré-definidos.
+
+## Você pode acessar o projeto através do link abaixo:
+https://explorer-stage-04-2.vercel.app/
 
 ---
 
